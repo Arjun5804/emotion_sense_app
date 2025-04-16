@@ -3,38 +3,6 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>EmotionSense – Detect Emotions from Text</title>
-  <style>
-    body {
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      margin: 40px;
-      line-height: 1.6;
-      background-color: #f9f9f9;
-      color: #333;
-    }
-    h1, h2, h3 {
-      color: #4a90e2;
-    }
-    code {
-      background-color: #eee;
-      padding: 2px 5px;
-      border-radius: 4px;
-    }
-    pre {
-      background-color: #eee;
-      padding: 10px;
-      border-radius: 6px;
-      overflow-x: auto;
-    }
-    ul {
-      margin-left: 20px;
-    }
-    .highlight {
-      background: #d7ecff;
-      padding: 0.4em;
-      border-left: 5px solid #4a90e2;
-    }
-  </style>
 </head>
 <body>
 
@@ -95,7 +63,7 @@ emotion-sense/
 ├── requirements.txt
 ├── emotion_roberta        ✅ Your downloaded model here
 ├── model_link.txt
-└── 
+└── venv
   </pre>
 
   <h2>🚀 Run the Streamlit App</h2>
