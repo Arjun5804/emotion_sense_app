@@ -62,7 +62,7 @@ emotion-sense/
 ├── app.py
 ├── requirements.txt
 ├── emotion_roberta        ✅ Your downloaded model here
-├── model_link.txt
+├── model drive link.txt
 └── venv
   </pre>
 
