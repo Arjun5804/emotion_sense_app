@@ -1,0 +1,6 @@
+streamlit
+transformers
+torch
+scikit-learn
+matplotlib
+seaborn
