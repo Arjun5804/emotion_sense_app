@@ -96,8 +96,8 @@ streamlit run app.py
   </ul>
 
   <h2>👨‍💻 Author</h2>
-  <p>Developed with ❤️ by <strong>[Your Name]</strong><br/>
-     GitHub: <a href="https://github.com/your-username" target="_blank">https://github.com/your-username</a>
+  <p>Developed with ❤️ by <strong>Arjun</strong><br/>
+     GitHub: <a href="https://github.com/Arjun5804" target="_blank">https://github.com/Arjun5804</a>
   </p>
 
 </body>
