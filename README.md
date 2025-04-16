@@ -77,13 +77,6 @@ streamlit run app.py
   <p><code>Disapproval</code>, <code>Disgust</code>, <code>Embarrassment</code>, <code>Excitement</code>, <code>Fear</code>, <code>Gratitude</code>, <code>Grief</code>, <code>Joy</code>, <code>Love</code>, <code>Nervousness</code>,</p>
   <p><code>Optimism</code>, <code>Pride</code>, <code>Realization</code>, <code>Relief</code>, <code>Remorse</code>, <code>Sadness</code>, <code>Surprise</code>, <code>Neutral</code></p>
 
-  <h2>📸 Screenshots</h2>
-  <p><em>Add your own screenshot here:</em></p>
-  <pre>
-📷 EmotionSense UI
-[Your Screenshot Here]
-  </pre>
-
   <h2>📝 License</h2>
   <p>This project is licensed under the <a href="https://choosealicense.com/licenses/mit/" target="_blank">MIT License</a>.</p>
 
